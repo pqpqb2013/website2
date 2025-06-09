@@ -1,0 +1,41 @@
+Road Guard AI E-Commerce Website
+================================
+
+This is a complete, responsive e-commerce website for Road Guard AI. 
+The website features a modern design with no subscriptions required.
+
+Features:
+---------
+- Responsive design for all devices
+- Product showcase with add-to-cart functionality
+- Shopping cart system with quantity management
+- Customer testimonials
+- Newsletter signup
+- Contact information
+
+File Structure:
+---------------
+- index.html: Main website file
+- styles/main.css: Main stylesheet
+- styles/responsive.css: Responsive styles
+- scripts/main.js: JavaScript functionality
+- images/: Folder for all website images
+- readme.txt: This file
+
+Instructions:
+-------------
+1. Create a folder named "road-guard-ai-website"
+2. Create the subfolders: styles, scripts, images
+3. Place the files in their respective folders
+4. For images, you can use the following:
+   - hero-bg.jpg: Hero section background (1920x1080)
+   - product1.jpg to product4.jpg: Product images (600x400)
+   - avatar1.jpg to avatar3.jpg: Customer avatars (100x100)
+
+5. Open index.html in any modern browser to view the website
+
+Note: This is a frontend-only implementation. For a production site, 
+you would need to add backend functionality for order processing.
+
+All product images and customer avatars are placeholders. Replace them 
+with your actual product images.

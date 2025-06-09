@@ -1,0 +1,17 @@
+road-guard-ai-website/
+├── index.html
+├── styles/
+│   ├── main.css
+│   └── responsive.css
+├── scripts/
+│   └── main.js
+├── images/
+│   ├── hero-bg.jpg
+│   ├── product1.jpg
+│   ├── product2.jpg
+│   ├── product3.jpg
+│   ├── product4.jpg
+│   ├── avatar1.jpg
+│   ├── avatar2.jpg
+│   └── avatar3.jpg
+└── readme.txt
